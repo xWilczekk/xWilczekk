@@ -17,30 +17,10 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://autochomko.pl"><img src="assets/work/autochomko.webp" alt="AutoChomko"/></a>
-      <br/><b><a href="https://autochomko.pl">AutoChomko</a></b>
-      <br/><sub>Komis samochodowy · oferta aut + panel admina ze statystykami</sub>
-      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
-    </td>
-    <td width="33%" valign="top">
       <a href="https://pestify.pl"><img src="assets/work/pestify.webp" alt="Pestify"/></a>
       <br/><b><a href="https://pestify.pl">Pestify</a></b>
       <br/><sub>Dezynsekcja i deratyzacja · Warszawa</sub>
       <br/><sub><code>Next.js</code> <code>Supabase</code> <code>Framer Motion</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.rafal-sakowski.pl"><img src="assets/work/rafal-sakowski.webp" alt="Rafał Sakowski"/></a>
-      <br/><b><a href="https://www.rafal-sakowski.pl">Rafał Sakowski</a></b>
-      <br/><sub>Gabinet hipnoterapii · Gdynia</sub>
-      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://omniway.pl"><img src="assets/work/omniway.webp" alt="Omniway"/></a>
-      <br/><b><a href="https://omniway.pl">Omniway</a></b>
-      <br/><sub>Termowizja budynków i farm PV · cała Polska</sub>
-      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://anetawitoslaw.pl"><img src="assets/work/anetawitoslaw.webp" alt="Aneta Witosław"/></a>
@@ -52,6 +32,26 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
       <a href="https://www.dekoracjeokien-alicedecor.pl"><img src="assets/work/alicedecor.webp" alt="Alice Decor"/></a>
       <br/><b><a href="https://www.dekoracjeokien-alicedecor.pl">Alice Decor</a></b>
       <br/><sub>Pracownia dekoracji okien · Grudziądz</sub>
+      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://autochomko.pl"><img src="assets/work/autochomko.webp" alt="AutoChomko"/></a>
+      <br/><b><a href="https://autochomko.pl">AutoChomko</a></b>
+      <br/><sub>Komis samochodowy · oferta aut + panel admina ze statystykami</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.rafal-sakowski.pl"><img src="assets/work/rafal-sakowski.webp" alt="Rafał Sakowski"/></a>
+      <br/><b><a href="https://www.rafal-sakowski.pl">Rafał Sakowski</a></b>
+      <br/><sub>Gabinet hipnoterapii · Gdynia</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://omniway.pl"><img src="assets/work/omniway.webp" alt="Omniway"/></a>
+      <br/><b><a href="https://omniway.pl">Omniway</a></b>
+      <br/><sub>Termowizja budynków i farm PV · cała Polska</sub>
       <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
     </td>
   </tr>
