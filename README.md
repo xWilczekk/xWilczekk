@@ -19,7 +19,8 @@ Projektuję i buduję strony dla lokalnych firm, od landing page'y po strony z p
 | **AutoChomko** | komis samochodowy, oferta aut + panel admina ze statystykami | Next.js · Supabase · Tailwind | [autochomko.pl](https://autochomko.pl) |
 | **Pestify** | dezynsekcja i deratyzacja, Warszawa | Next.js · Supabase · Framer Motion | [pestify.pl](https://pestify.pl) |
 | **Rafał Sakowski** | gabinet hipnoterapii, Gdynia | Next.js · Supabase · Tailwind | [rafal-sakowski.pl](https://www.rafal-sakowski.pl) |
-| **HydroTech Południe** | usługi hydrauliczne | Next.js · Supabase · GSAP | [hydrotechpoludnie.pl](https://www.hydrotechpoludnie.pl) |
+| **Omniway** | termowizja budynków i farm PV, cała Polska | Next.js · Tailwind | [omniway.pl](https://omniway.pl) |
+| **Kącik Smaku** | kebab, Wyszków | React · Vite · Tailwind | [kaciksmakuwyszkow.pl](https://kaciksmakuwyszkow.pl) |
 | **Aneta Witosław** | gabinet psychologiczny | Next.js · GSAP · Tailwind | [anetawitoslaw.pl](https://anetawitoslaw.pl) |
 | **Alice Decor** | pracownia dekoracji okien | Next.js · Tailwind | [dekoracjeokien-alicedecor.pl](https://www.dekoracjeokien-alicedecor.pl) |
 | **SK Sprzątanie** | firma sprzątająca, Trójmiasto | Next.js · Framer Motion | [sksprzatanie.pl](https://www.sksprzatanie.pl) |
