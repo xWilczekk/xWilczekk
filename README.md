@@ -12,7 +12,7 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
 
 <br/>
 
-## ✦ Wybrane realizacje
+## Wybrane realizacje
 
 <table>
   <tr>
@@ -81,7 +81,7 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
 
 <br/>
 
-## ✦ Stack
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -96,14 +96,9 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
-## ✦ Jak pracuję
+## Jak pracuję
 
-| | |
-|---|---|
-| ⚡ **Szybkość** | strony optymalizowane pod Core Web Vitals i SEO lokalne |
-| 🛠 **Panel klienta** | treści, oferty i statystyki edytowalne bez programisty (Supabase) |
-| 🎞 **Ruch z sensem** | animacje GSAP / Framer Motion, które prowadzą wzrok do kontaktu |
-| 🤝 **Po starcie** | 30 dni wsparcia i dalsza opieka nad stroną |
+Robię strony głównie dla lokalnych firm. Zależy mi, żeby szybko się ładowały i były dobrze widoczne w Google. Klient dostaje prosty panel, w którym sam zmienia treści i ofertę. Po starcie jestem dalej pod telefonem.
 
 <br/>
 
