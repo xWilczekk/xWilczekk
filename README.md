@@ -1,34 +1,87 @@
-<h1 align="center">Bartłomiej Kulesz</h1>
-<p align="center"><b>Strony, które zarabiają.</b><br/>Freelance web developer · Next.js · React · Supabase</p>
+<a href="https://bartekstrony.pl"><img src="assets/banner.svg" width="100%" alt="Bartłomiej Kulesz · Strony, które zarabiają."/></a>
 
 <p align="center">
-  <a href="https://bartekstrony.pl"><img src="https://img.shields.io/badge/bartekstrony.pl-portfolio-111111?style=for-the-badge" alt="bartekstrony.pl"/></a>
-  <a href="mailto:bartlomiej.kulesz.biznes@gmail.com"><img src="https://img.shields.io/badge/kontakt-e--mail-111111?style=for-the-badge" alt="e-mail"/></a>
+  <a href="https://bartekstrony.pl"><img src="https://img.shields.io/badge/Portfolio-bartekstrony.pl-6d5dfc?style=for-the-badge&labelColor=0b0e16" alt="Portfolio"/></a>
+  <a href="mailto:bartlomiej.kulesz.biznes@gmail.com"><img src="https://img.shields.io/badge/Kontakt-e--mail-22d3ee?style=for-the-badge&labelColor=0b0e16" alt="E-mail"/></a>
+  <img src="https://img.shields.io/badge/Status-przyjmuję_zlecenia-a3e635?style=for-the-badge&labelColor=0b0e16" alt="Status"/>
 </p>
 
----
+<br/>
 
-Projektuję i buduję strony dla lokalnych firm, od landing page'y po strony z panelem admina i bazą danych. Biorę na siebie cały proces: projekt, kod, SEO, wdrożenie i wsparcie po starcie.
+Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem admina i bazą danych. Prowadzę projekt od początku do końca: **design → kod → SEO → wdrożenie → opieka**.
 
-**25+ wdrożonych realizacji:** gabinety, komisy, wypożyczalnie, usługi, gastronomia.
+<br/>
 
-## Wybrane realizacje
+## ✦ Wybrane realizacje
 
-| Projekt | Branża | Stack | Na żywo |
-|---|---|---|---|
-| **AutoChomko** | komis samochodowy, oferta aut + panel admina ze statystykami | Next.js · Supabase · Tailwind | [autochomko.pl](https://autochomko.pl) |
-| **Pestify** | dezynsekcja i deratyzacja, Warszawa | Next.js · Supabase · Framer Motion | [pestify.pl](https://pestify.pl) |
-| **Rafał Sakowski** | gabinet hipnoterapii, Gdynia | Next.js · Supabase · Tailwind | [rafal-sakowski.pl](https://www.rafal-sakowski.pl) |
-| **Omniway** | termowizja budynków i farm PV, cała Polska | Next.js · Tailwind | [omniway.pl](https://omniway.pl) |
-| **Kącik Smaku** | kebab, Wyszków | React · Vite · Tailwind | [kaciksmakuwyszkow.pl](https://kaciksmakuwyszkow.pl) |
-| **Aneta Witosław** | gabinet psychologiczny | Next.js · GSAP · Tailwind | [anetawitoslaw.pl](https://anetawitoslaw.pl) |
-| **Alice Decor** | pracownia dekoracji okien | Next.js · Tailwind | [dekoracjeokien-alicedecor.pl](https://www.dekoracjeokien-alicedecor.pl) |
-| **SK Sprzątanie** | firma sprzątająca, Trójmiasto | Next.js · Framer Motion | [sksprzatanie.pl](https://www.sksprzatanie.pl) |
-| **JP-Auto** | wypożyczalnia aut i busów | Next.js · Tailwind | [jpauto-wynajem-sokolka.pl](https://jpauto-wynajem-sokolka.pl) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://autochomko.pl"><img src="assets/work/autochomko.webp" alt="AutoChomko"/></a>
+      <br/><b><a href="https://autochomko.pl">AutoChomko</a></b>
+      <br/><sub>Komis samochodowy · oferta aut + panel admina ze statystykami</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://pestify.pl"><img src="assets/work/pestify.webp" alt="Pestify"/></a>
+      <br/><b><a href="https://pestify.pl">Pestify</a></b>
+      <br/><sub>Dezynsekcja i deratyzacja · Warszawa</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code> <code>Framer Motion</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.rafal-sakowski.pl"><img src="assets/work/rafal-sakowski.webp" alt="Rafał Sakowski"/></a>
+      <br/><b><a href="https://www.rafal-sakowski.pl">Rafał Sakowski</a></b>
+      <br/><sub>Gabinet hipnoterapii · Gdynia</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://omniway.pl"><img src="assets/work/omniway.webp" alt="Omniway"/></a>
+      <br/><b><a href="https://omniway.pl">Omniway</a></b>
+      <br/><sub>Termowizja budynków i farm PV · cała Polska</sub>
+      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://anetawitoslaw.pl"><img src="assets/work/anetawitoslaw.webp" alt="Aneta Witosław"/></a>
+      <br/><b><a href="https://anetawitoslaw.pl">Aneta Witosław</a></b>
+      <br/><sub>Gabinet psychologiczny · Sokółka</sub>
+      <br/><sub><code>Next.js</code> <code>GSAP</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.dekoracjeokien-alicedecor.pl"><img src="assets/work/alicedecor.webp" alt="Alice Decor"/></a>
+      <br/><b><a href="https://www.dekoracjeokien-alicedecor.pl">Alice Decor</a></b>
+      <br/><sub>Pracownia dekoracji okien · Grudziądz</sub>
+      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.sksprzatanie.pl"><img src="assets/work/sksprzatanie.webp" alt="SK Sprzątanie"/></a>
+      <br/><b><a href="https://www.sksprzatanie.pl">SK Sprzątanie</a></b>
+      <br/><sub>Firma sprzątająca · Trójmiasto</sub>
+      <br/><sub><code>Next.js</code> <code>Framer Motion</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://jpauto-wynajem-sokolka.pl"><img src="assets/work/jpauto.webp" alt="JP-Auto"/></a>
+      <br/><b><a href="https://jpauto-wynajem-sokolka.pl">JP-Auto</a></b>
+      <br/><sub>Wypożyczalnia aut i busów · Sokółka</sub>
+      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://kaciksmakuwyszkow.pl"><img src="assets/work/kaciksmaku.webp" alt="Kącik Smaku"/></a>
+      <br/><b><a href="https://kaciksmakuwyszkow.pl">Kącik Smaku</a></b>
+      <br/><sub>Kebab · Wyszków</sub>
+      <br/><sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub>
+    </td>
+  </tr>
+</table>
 
-Pełne portfolio z opisami realizacji: **[bartekstrony.pl](https://bartekstrony.pl)**
+<p align="center"><b><a href="https://bartekstrony.pl">→ Wszystkie realizacje z opisami na bartekstrony.pl</a></b></p>
 
-## Stack
+<br/>
+
+## ✦ Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -43,13 +96,15 @@ Pełne portfolio z opisami realizacji: **[bartekstrony.pl](https://bartekstrony.
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
-## Jak pracuję
+## ✦ Jak pracuję
 
-- **Szybkość:** strony optymalizowane pod Core Web Vitals i SEO lokalne
-- **Panel klienta:** treści, oferty i statystyki edytowalne bez programisty (Supabase)
-- **Ruch z sensem:** animacje GSAP / Framer Motion tam, gdzie prowadzą wzrok do kontaktu
-- **Po starcie:** 30 dni wsparcia i dalsza opieka nad stroną
+| | |
+|---|---|
+| ⚡ **Szybkość** | strony optymalizowane pod Core Web Vitals i SEO lokalne |
+| 🛠 **Panel klienta** | treści, oferty i statystyki edytowalne bez programisty (Supabase) |
+| 🎞 **Ruch z sensem** | animacje GSAP / Framer Motion, które prowadzą wzrok do kontaktu |
+| 🤝 **Po starcie** | 30 dni wsparcia i dalsza opieka nad stroną |
 
----
+<br/>
 
 <p align="center"><sub>Kod realizacji dla klientów jest prywatny. Strony możesz obejrzeć na żywo pod linkami powyżej.</sub></p>

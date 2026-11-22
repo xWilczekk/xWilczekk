@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07080c"/>
+      <stop offset="1" stop-color="#0c0f17"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 120) scale(420 300)">
+      <stop offset="0" stop-color="#6d5dfc" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#6d5dfc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1120 330) scale(380 260)">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 380) scale(420 220)">
+      <stop offset="0" stop-color="#a3e635" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#a3e635" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".35" stop-color="#c4b5fd"/>
+      <stop offset=".65" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".02"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gm"><rect width="1280" height="380" fill="url(#gridFade)"/></mask>
+    <clipPath id="clip"><rect width="1280" height="380" rx="24"/></clipPath>
+    <style>
+      .t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif}
+      .m{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,monospace}
+      .in{opacity:0;animation:in .9s cubic-bezier(.2,.7,.2,1) forwards}
+      .d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.55s}.d4{animation-delay:.8s}
+      @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+      .orbA{animation:driftA 14s ease-in-out infinite}
+      .orbB{animation:driftB 18s ease-in-out infinite}
+      @keyframes driftA{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,30px)}}
+      @keyframes driftB{0%,100%{transform:translate(0,0)}50%{transform:translate(50px,-40px)}}
+      .f1{animation:float 7s ease-in-out infinite}
+      .f2{animation:float 7s ease-in-out -2.3s infinite}
+      .f3{animation:float 7s ease-in-out -4.6s infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      .dot{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+      .caret{animation:blink 1.1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="380" fill="url(#bg)"/>
+    <rect width="1280" height="380" fill="url(#grid)" mask="url(#gm)"/>
+    <g class="orbA"><rect width="1280" height="380" fill="url(#glowA)"/></g>
+    <g class="orbB"><rect width="1280" height="380" fill="url(#glowB)"/></g>
+    <rect width="1280" height="380" fill="url(#glowC)"/>
+
+    <!-- floating browser windows -->
+    <g transform="translate(800 70)">
+      <g class="f1">
+        <rect x="0" y="0" width="300" height="190" rx="14" fill="#0f1320" stroke="url(#frame)"/>
+        <circle cx="18" cy="17" r="4" fill="#ff5f57" fill-opacity=".8"/><circle cx="32" cy="17" r="4" fill="#febc2e" fill-opacity=".8"/><circle cx="46" cy="17" r="4" fill="#28c840" fill-opacity=".8"/>
+        <rect x="70" y="11" width="160" height="12" rx="6" fill="#ffffff" fill-opacity=".06"/>
+        <rect x="20" y="48" width="150" height="16" rx="4" fill="#ffffff" fill-opacity=".85"/>
+        <rect x="20" y="72" width="110" height="16" rx="4" fill="#a78bfa"/>
+        <rect x="20" y="100" width="180" height="6" rx="3" fill="#ffffff" fill-opacity=".18"/>
+        <rect x="20" y="112" width="150" height="6" rx="3" fill="#ffffff" fill-opacity=".18"/>
+        <rect x="20" y="136" width="74" height="24" rx="12" fill="#6d5dfc"/>
+        <rect x="102" y="136" width="74" height="24" rx="12" stroke="#ffffff" stroke-opacity=".25"/>
+        <rect x="212" y="46" width="70" height="114" rx="10" fill="#22d3ee" fill-opacity=".14"/>
+      </g>
+    </g>
+    <g transform="translate(1010 175)">
+      <g class="f2">
+        <rect x="0" y="0" width="220" height="150" rx="14" fill="#0e1220" stroke="url(#frame)"/>
+        <text x="18" y="30" class="m" font-size="11" fill="#94a3b8">supabase · admin</text>
+        <rect x="18" y="46" width="22" height="70" rx="4" fill="#6d5dfc" fill-opacity=".9"/>
+        <rect x="48" y="66" width="22" height="50" rx="4" fill="#6d5dfc" fill-opacity=".6"/>
+        <rect x="78" y="36" width="22" height="80" rx="4" fill="#22d3ee" fill-opacity=".85"/>
+        <rect x="108" y="58" width="22" height="58" rx="4" fill="#6d5dfc" fill-opacity=".6"/>
+        <rect x="138" y="44" width="22" height="72" rx="4" fill="#a3e635" fill-opacity=".85"/>
+        <rect x="168" y="74" width="22" height="42" rx="4" fill="#6d5dfc" fill-opacity=".5"/>
+        <rect x="18" y="128" width="172" height="1" fill="#ffffff" fill-opacity=".12"/>
+      </g>
+    </g>
+    <g transform="translate(760 260)">
+      <g class="f3">
+        <rect x="0" y="0" width="230" height="84" rx="14" fill="#0e1220" stroke="url(#frame)"/>
+        <text x="18" y="32" class="m" font-size="12" fill="#a3e635">✓ deployed</text>
+        <text x="18" y="58" class="m" font-size="12" fill="#e2e8f0">next build · vercel</text>
+        <circle cx="198" cy="42" r="18" stroke="#a3e635" stroke-width="4" stroke-dasharray="110 113" transform="rotate(-90 198 42)"/>
+      </g>
+    </g>
+
+    <!-- copy -->
+    <g transform="translate(72 0)">
+      <g class="in d1">
+        <circle cx="6" cy="92" r="5" fill="#a3e635" class="dot"/>
+        <text x="20" y="97" class="m" font-size="14" letter-spacing="2.5" fill="#94a3b8">FREELANCE WEB DEVELOPER · POLSKA</text>
+      </g>
+      <g class="in d2">
+        <text x="0" y="168" class="t" font-size="62" font-weight="800" letter-spacing="-2" fill="#ffffff">Bartłomiej Kulesz</text>
+      </g>
+      <g class="in d3">
+        <text x="0" y="222" class="t" font-size="34" font-weight="600" letter-spacing="-.8" fill="url(#shine)">Strony, które zarabiają.<tspan class="caret" fill="#a78bfa">_</tspan></text>
+      </g>
+      <g class="in d4">
+        <g transform="translate(0 262)">
+          <rect width="148" height="36" rx="18" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+          <text x="74" y="23" text-anchor="middle" class="m" font-size="13" fill="#e2e8f0">25+ realizacji</text>
+        </g>
+        <g transform="translate(160 262)">
+          <rect width="116" height="36" rx="18" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+          <text x="58" y="23" text-anchor="middle" class="m" font-size="13" fill="#e2e8f0">Next.js</text>
+        </g>
+        <g transform="translate(288 262)">
+          <rect width="124" height="36" rx="18" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+          <text x="62" y="23" text-anchor="middle" class="m" font-size="13" fill="#e2e8f0">Supabase</text>
+        </g>
+        <g transform="translate(424 262)">
+          <rect width="150" height="36" rx="18" fill="#6d5dfc" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".5"/>
+          <text x="75" y="23" text-anchor="middle" class="m" font-size="13" fill="#ddd6fe">bartekstrony.pl</text>
+        </g>
+      </g>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="379" rx="23.5" stroke="#ffffff" stroke-opacity=".08"/>
+  </g>
+</svg>
