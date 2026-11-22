@@ -17,10 +17,10 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://pestify.pl"><img src="assets/work/pestify.webp" alt="Pestify"/></a>
-      <br/><b><a href="https://pestify.pl">Pestify</a></b>
-      <br/><sub>Dezynsekcja i deratyzacja · Warszawa</sub>
-      <br/><sub><code>Next.js</code> <code>Supabase</code> <code>Framer Motion</code></sub>
+      <a href="https://www.sksprzatanie.pl"><img src="assets/work/sksprzatanie.webp" alt="SK Sprzątanie"/></a>
+      <br/><b><a href="https://www.sksprzatanie.pl">SK Sprzątanie</a></b>
+      <br/><sub>Firma sprzątająca · Trójmiasto</sub>
+      <br/><sub><code>Next.js</code> <code>Framer Motion</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://anetawitoslaw.pl"><img src="assets/work/anetawitoslaw.webp" alt="Aneta Witosław"/></a>
@@ -29,10 +29,10 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
       <br/><sub><code>Next.js</code> <code>GSAP</code></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.dekoracjeokien-alicedecor.pl"><img src="assets/work/alicedecor.webp" alt="Alice Decor"/></a>
-      <br/><b><a href="https://www.dekoracjeokien-alicedecor.pl">Alice Decor</a></b>
-      <br/><sub>Pracownia dekoracji okien · Grudziądz</sub>
-      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
+      <a href="https://kaciksmakuwyszkow.pl"><img src="assets/work/kaciksmaku.webp" alt="Kącik Smaku"/></a>
+      <br/><b><a href="https://kaciksmakuwyszkow.pl">Kącik Smaku</a></b>
+      <br/><sub>Kebab · Wyszków</sub>
+      <br/><sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub>
     </td>
   </tr>
   <tr>
@@ -57,10 +57,10 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://www.sksprzatanie.pl"><img src="assets/work/sksprzatanie.webp" alt="SK Sprzątanie"/></a>
-      <br/><b><a href="https://www.sksprzatanie.pl">SK Sprzątanie</a></b>
-      <br/><sub>Firma sprzątająca · Trójmiasto</sub>
-      <br/><sub><code>Next.js</code> <code>Framer Motion</code></sub>
+      <a href="https://pestify.pl"><img src="assets/work/pestify.webp" alt="Pestify"/></a>
+      <br/><b><a href="https://pestify.pl">Pestify</a></b>
+      <br/><sub>Dezynsekcja i deratyzacja · Warszawa</sub>
+      <br/><sub><code>Next.js</code> <code>Supabase</code> <code>Framer Motion</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://jpauto-wynajem-sokolka.pl"><img src="assets/work/jpauto.webp" alt="JP-Auto"/></a>
@@ -69,10 +69,10 @@ Projektuję i buduję strony dla firm, od landing page'y po serwisy z panelem ad
       <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://kaciksmakuwyszkow.pl"><img src="assets/work/kaciksmaku.webp" alt="Kącik Smaku"/></a>
-      <br/><b><a href="https://kaciksmakuwyszkow.pl">Kącik Smaku</a></b>
-      <br/><sub>Kebab · Wyszków</sub>
-      <br/><sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub>
+      <a href="https://www.dekoracjeokien-alicedecor.pl"><img src="assets/work/alicedecor.webp" alt="Alice Decor"/></a>
+      <br/><b><a href="https://www.dekoracjeokien-alicedecor.pl">Alice Decor</a></b>
+      <br/><sub>Pracownia dekoracji okien · Grudziądz</sub>
+      <br/><sub><code>Next.js</code> <code>Tailwind</code></sub>
     </td>
   </tr>
 </table>
